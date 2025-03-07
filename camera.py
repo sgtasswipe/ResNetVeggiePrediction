@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 from keras.src.applications.convnext import preprocess_input
 
-# Loading my model trained on google colab .
+# Loading my model trained on google colab
 try:
     model = tf.keras.models.load_model("veggies.keras")
     print("✅ Model loaded successfully!")
