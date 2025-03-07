@@ -18,3 +18,8 @@ This project is a **vegetable classification model** trained using a fine-tuned 
 ## 📂 Model Training  
 You can train and export the model yourself using Google Colab using the following link: 
 [https://colab.research.google.com/drive/1R2wqavKwseokfA5wTWTZNoGw2hDrCcIx?usp=sharing]  
+
+## Setup
+Run all cells in the notebook, and download the .keras file unto your system
+Clone the project - > git clone https://github.com/sgtasswipe/ResNetVeggiePrediction and place the .keras file into the same project folder. 
+Run the script
